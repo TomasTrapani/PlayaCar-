@@ -1,0 +1,223 @@
+# depslib dependency file v1.0
+1717019998 source:e:\utn tomi\programacion 1\tp final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1717019998 source:f:\utn tomi\programacion 1\tp final\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1717076374 source:f:\utn tomi\programacion 1\tp final\tpfinal\calculadora.c
+	"Calculadora.h"
+
+1717076416 f:\utn tomi\programacion 1\tp final\tpfinal\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717019896 e:\utn tomi\programacion 1\tp final\tpfinal\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717019910 source:e:\utn tomi\programacion 1\tp final\tpfinal\calculadora.c
+	"Calculadora.h"
+
+1718235672 source:c:\users\asus\desktop\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1718232641 c:\users\asus\desktop\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"pila.h"
+
+1718235891 source:c:\users\asus\desktop\practica\calculadora.c
+	"Calculadora.h"
+
+1717545634 source:e:\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1717546516 e:\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717546412 source:e:\practica\calculadora.c
+	"Calculadora.h"
+
+1717680268 source:f:\utn tomi\programacion 1\practica\calculadora.c
+	"Calculadora.h"
+
+1717679802 f:\utn tomi\programacion 1\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717679416 source:f:\utn tomi\programacion 1\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1717617148 source:d:\utn tomi\programacion 1\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1717617086 d:\utn tomi\programacion 1\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717619434 source:d:\utn tomi\programacion 1\practica\calculadora.c
+	"Calculadora.h"
+
+1717725868 source:e:\utn tomi\programacion 1\practica\calculadora.c
+	"Calculadora.h"
+
+1717725792 e:\utn tomi\programacion 1\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1717726066 source:e:\utn tomi\programacion 1\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1718284668 source:f:\practica\calculadora.c
+	"Calculadora.h"
+
+1718283154 f:\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1718284668 source:f:\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1718192220 f:\practica\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718192218 source:f:\practica\pila.c
+	"pila.h"
+
+1718192218 source:c:\users\asus\desktop\practica\pila.c
+	"pila.h"
+
+1718192220 c:\users\asus\desktop\practica\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718246046 source:c:\users\tomas\documents\practica\calculadora.c
+	"Calculadora.h"
+
+1718236921 c:\users\tomas\documents\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1718192220 c:\users\tomas\documents\practica\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718245813 source:c:\users\tomas\documents\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
+1718192218 source:c:\users\tomas\documents\practica\pila.c
+	"pila.h"
+
+1718285164 source:d:\practica\calculadora.c
+	"Calculadora.h"
+
+1718283154 d:\practica\calculadora.h
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1718284668 source:d:\practica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"Calculadora.h"
+
